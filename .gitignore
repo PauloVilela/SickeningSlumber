@@ -13,3 +13,4 @@ Saved
 *.xcodeproj
 *.xcworkspace
 Content/Scenes/Blockout_Level_BuiltData.uasset
+Content/Blueprints/Characters/PlayerBase_CBP.uasset
